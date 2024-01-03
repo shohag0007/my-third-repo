@@ -1,0 +1,34 @@
+body{
+    background-image: url('../images/back.jpg');
+}
+
+h1{
+    text-align:center;
+    color:green;
+}
+
+.head,img {
+    width: 300px;
+    height: 200px;
+    display:flex;
+    padding: 10px;
+    
+    margin: auto;
+}
+
+.text p{
+    background-color:rgb(24, 22, 54);
+    color: white;
+    margin: 50px auto;
+    padding: 60px;
+    border: 7px solid gold;
+    border-top: 25px;
+    border-right: 10px;
+   
+
+}
+.text span{
+    font-weight: 900;
+    color:green;
+    
+}
