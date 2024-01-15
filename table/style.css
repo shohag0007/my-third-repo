@@ -1,0 +1,9 @@
+table,tr,td{
+    border: 3px solid blue;
+}
+
+
+h4,h5{
+    text-align: center;
+    display: flex;
+}

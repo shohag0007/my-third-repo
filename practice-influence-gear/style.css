@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap')
+
+body{
+    margin: 0;
+    max-width: 1440px;
+}
+
+
+
+.header{}
+
+
+nav{
+    
+    
+
+}
+
+.nav-title{
+    olor: #3A3A3A;
+
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+nav>ul {
+    display: flex;
+    justify-content: right;
+    gap: 20px;
+    text-decoration: none;
+    
+}
+
+nav li{
+    list-style: none;
+    
+
+}
+
+.header img{
+
+   padding-left: 65%;
+   padding-top: 75%;
+
+
+    
+}
+
+
+.header-title{
+    padding-left: 60px;
+}
+
+.icon-container{
+    display: flex;
+    gap: 30px;
+    padding-left: 200px;
+    padding-right: 30px;
+
+}
+
+.team-image-container{
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:5px;
+    margin-top: 100px;
+    
+
+    
+
+}
+
+.team-image-container{
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: auto;
+    
+
+}
+
+
+.btn-primary{
+    background-color: red;
+    color: #fff;
+    height
+}
+    
+
