@@ -6,4 +6,4 @@ console.log(fourth);
 
 
 numbers[2] = 95;
-console.log(numbers);
+console.log(numbers.indexOf [3]);

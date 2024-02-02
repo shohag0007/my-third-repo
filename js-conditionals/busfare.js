@@ -1,14 +1,18 @@
 
  const fare = 800;
  const age = 10;
- const studentDiscount = 10;
+ 
  
 
- if (age <= 12) {
-    console.log('travel free');
+   if (age <= 10 ) {
+      console.log('travel free');
+   }
+
+ else if(age >= 60){
+   console.log('You can get 15% discount');
  }
 
- else if (student <= 10%){
-     studentDiscount = 800 * 10 /100
-     console.log(studentDiscount);
- }
+
+ 
+
+ 
