@@ -17,4 +17,11 @@
   }
 
   const shuvoHeight2 = inchToFeet2(75);
-  console.log(shuvoHeight2);
+//   console.log(shuvoHeight2);
+
+ function mileToKilometer(mile){
+    const kilo = mile * 1.60934;
+    return kilo;
+ }
+
+ console.log();
